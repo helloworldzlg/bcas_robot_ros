@@ -1,0 +1,350 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"p",
+				"ptemp"
+			],
+			[
+				"m_",
+				"m_day"
+			],
+			[
+				"cl",
+				"clone"
+			],
+			[
+				"bas",
+				"base_1_1"
+			],
+			[
+				"is",
+				"m_isfreshwater"
+			],
+			[
+				"m",
+				"m_isfreshwater"
+			],
+			[
+				"s",
+				"set_age"
+			],
+			[
+				"hu",
+				"human_info"
+			],
+			[
+				"A",
+				"m_Age"
+			],
+			[
+				"st",
+				"string"
+			],
+			[
+				"g",
+				"get_name"
+			],
+			[
+				"o",
+				"our_president"
+			],
+			[
+				"b",
+				"buffer"
+			],
+			[
+				"co",
+				"copy_string"
+			],
+			[
+				"ge",
+				"get_length"
+			],
+			[
+				"pr",
+				"print_info"
+			],
+			[
+				"se",
+				"sendbytes"
+			],
+			[
+				"ser",
+				"serv_addr"
+			],
+			[
+				"sock",
+				"sockfd"
+			],
+			[
+				"so",
+				"sockfd"
+			],
+			[
+				"msg_t",
+				"msg_text"
+			],
+			[
+				"sig",
+				"sigismember"
+			],
+			[
+				"siga",
+				"sigaction"
+			],
+			[
+				"ac",
+				"action1"
+			],
+			[
+				"pipe",
+				"pipe_fd"
+			],
+			[
+				"pip",
+				"pipe_fd"
+			],
+			[
+				"call",
+				"callback_1"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 404.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/zlg/ros"
+	],
+	"file_history":
+	[
+		"/home/zlg/ms/learning_ros/src/chapter8/src/tf_broadcaster.cpp",
+		"/home/zlg/ms/learning_ros/src/chapter8/CMakeLists.txt",
+		"/home/zlg/ms/learning_ros/src/chapter7/robot_description/launch/display.launch",
+		"/home/zlg/ms/learning_ros/src/chapter7/robot_description/CMakeLists.txt",
+		"/home/zlg/ms/learning_ros/src/chapter7/robot_description/src/state_publisher.cpp",
+		"/home/zlg/ms/learning_ros/src/chapter7/robot_description/urdf/robot3.urdf",
+		"/home/zlg/ms/learning_ros/src/chapter7/robot_description/urdf/robot2.urdf",
+		"/home/zlg/ws/px4/ardupilot/modules/PX4Firmware/src/modules/partner_px4/partner_px4.c",
+		"/home/zlg/ws/px4/ardupilot/modules/PX4NuttX/nuttx/arch/arm/src/chip/px4_dcmi.c"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"MAVLINK_MAX_PAYLOAD_LEN",
+			"MAVLINK_MSG_ID_HEARTBEAT_LEN",
+			"mavlink_msg_heartbeat_send",
+			"__mavlink_heartbeat_t",
+			"mavlink_heartbeat_t",
+			"uart_devs",
+			"g_usart2priv",
+			"USART2",
+			"g_result"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 379.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "ros.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"px4_dc",
+				"modules/PX4NuttX/nuttx/arch/arm/src/chip/px4_dcmi.c"
+			],
+			[
+				"partner",
+				"modules/PX4Firmware/src/modules/partner_px4/partner_px4.c"
+			],
+			[
+				"mavlink_helpers",
+				"modules/PX4Firmware/mavlink/include/mavlink/v1.0/mavlink_helpers.h"
+			],
+			[
+				"protocol.h",
+				"modules/PX4Firmware/mavlink/include/mavlink/v1.0/protocol.h"
+			],
+			[
+				"mavlink_msg_heartbeat.h",
+				"modules/PX4Firmware/mavlink/include/mavlink/v1.0/common/mavlink_msg_heartbeat.h"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 342.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
